@@ -1,10 +1,10 @@
-# Data Modeling with a Pivot Table in Excel
+# Data Modeling with two Pivot Charts in Excel
 
 # Introduction
-This repository is based on making a data model and then creating a pivot table in the Excel program. I was tasked to created one for a meeting.
+This repository is based on making a data model, creating a pivot table and then create two pivot charts in the Excel program. I was tasked to created one for a recent meeting.
 
 # Abstract
-I was tasked to make a data model based on administration data that had many features. I was also tasked in creating a pivot table from that data that included a few features.
+I was tasked to make a data model based on administration data that had many features. I was also tasked in creating a pivot table from that data that included a few features. Then I was taksed to create two visualizations that broken down the data results into a simple form.
 
 
 # Summary of Skills
@@ -24,6 +24,14 @@ This Screenshot was created from this project to show my progress of this projec
 ![Preview of part three.](https://github.com/micgonzalez/Data-Modeling-in-Excel/blob/main/excel_data_model/excel_data_model_04.jpg)
 
 This Screenshot was created from this project to show the completion of this project.
+
+![Preview of part four.](https://github.com/micgonzalez/Data-Modeling-in-Excel/blob/main/excel_data_model/bar_chart_of_college_student_data.png)
+
+This bar chart was created from this project to show the results of this project.
+
+![Preview of part five.](https://github.com/micgonzalez/Data-Modeling-in-Excel/blob/main/excel_data_model/pie_chart_of_college_student_data.png)
+
+This pie chart was created from this project to show the results of this project.
 
 
 # Findings
