@@ -35,10 +35,10 @@ This pie chart was created from this project to show the results of this project
 
 
 # Findings
-I was take a back on the step taken to transform the data into a working model. The model allowed to look for useful relationships between the features. 
+I was take a back on the step taken to transform the data into a working model. The model allowed to look for useful relationships between the features. I was not sure if it would make sense to create a data model from this dataset. Once I created the pivot table, I was surprised with the ease of creating visualizations from it.
 
 # Challenges
-There wasn't any major challenges for me. In Excel, there are many useful functions that allow to transform the worksheet into a useful data model and pivot table.
+There wasn't any major challenges for me. In Excel, there are many useful functions that allow to transform the worksheet into a useful data model and pivot table. When it came to creating visualizations from the pivot table, I did some research to help me get familiar with the process of creating pivot charts.
 
 # Conclusion
-The Excel program has many more useful functions that I haven't used. Using the data modeling function allowed for a streamlined process that also cuts down on time. This allowed to me bring insights to the meeting. 
+The Excel program has many more useful functions that I haven't used. Using the data modeling function allowed for a streamlined process that also cuts down on time. This allowed to me bring insights to the meeting. In the end, the fact that I can streamline a process in a timely manner and relay my findings with other stakeholders is the real benefit.
